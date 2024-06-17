@@ -1,0 +1,15 @@
+{
+  "name": "receipt-processor",
+  "version": "1.0.0",
+  "description": "A simple receipt processor application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
